@@ -9,19 +9,19 @@
     "restart": "pm2 restart robin"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.9",              // ✅ Latest as of now
-    "qrcode": "^1.5.5",                                // ⬆ Updated
-    "awesome-phonenumber": "^7.3.0",                   // ⬆ Updated
-    "pino": "^9.7.1",                                  // ⬆ Updated
-    "phone": "^3.2.1",                                 // ⬆ Updated
-    "body-parser": "^1.20.3",                          // ✅ Already latest
-    "express": "^4.21.4",                              // ⬆ Updated
-    "path": "^0.12.7",                                 // ✅ Still valid
-    "megajs": "^1.3.8",                                // ⬆ Updated
-    "pm2": "^5.4.5",                                   // ⬆ Latest in 5.x
-    "rimraf": "^6.1.0",                                // ⬆ Updated
-    "@eslint/config-array": "^0.19.1",                 // ✅ Already stable
-    "@eslint/object-schema": "^2.1.5",                 // ✅ Already stable
-    "eslint": "^9.17.0"                                // ✅ Still latest
+    "@whiskeysockets/baileys": "^6.7.18",
+    "qrcode": "^1.5.5",
+    "awesome-phonenumber": "^7.3.0",
+    "pino": "^9.7.1",
+    "phone": "^3.2.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.4",
+    "path": "^0.12.7",
+    "megajs": "^1.3.8",
+    "pm2": "^5.4.5",
+    "rimraf": "^6.1.0",
+    "@eslint/config-array": "^0.19.1",
+    "@eslint/object-schema": "^2.1.5",
+    "eslint": "^9.17.0"
   }
 }
